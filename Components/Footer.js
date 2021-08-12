@@ -11,8 +11,6 @@ function Footer() {
                 <p>AirBnb Plus</p>
                 <p>Airbnb Luxe</p>
                 </div>
-                <div >
-           </div>
             </div>
         
         
