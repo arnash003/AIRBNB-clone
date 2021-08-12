@@ -20,5 +20,5 @@ import React from 'react'
      )
  }
  
- export default SmallCard;
+ export default SmallCard
  
